@@ -1,0 +1,1 @@
+v 0.1 - 25/12/2015 - Seth: programa que gerencia banco de dados sobre gastos mensais. Funções básicas serão inseridas, como inserção de dados, remoção de dados, alteração de dados e apagar dados.
